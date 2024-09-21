@@ -25,7 +25,7 @@ To get started with PlantGPT, follow these steps:
     gaianet start
 
 ## How to Use
-1. Open your web browser and navigate to http://localhost:3000 (or the port specified in your configuration).
+1. Open your web browser and navigate to generated link.
 2. Start interacting with the chatbot by typing your plant-related questions.
 
 ## Display Video Link
