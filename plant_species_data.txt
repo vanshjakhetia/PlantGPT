@@ -1,0 +1,699 @@
+1. Name: Rose
+   Family: Rosaceae
+   Habitat: Gardens, parks, temperate regions
+   Area Found: Worldwide, especially in Asia, Europe, and North America
+   Characteristics: Thorny stems, fragrant flowers, various colors
+   Uses: Ornamental plant, perfume production, medicinal purposes
+
+2. Name: Sunflower
+   Family: Asteraceae
+   Habitat: Fields, gardens, sunny areas
+   Area Found: Native to North America, cultivated worldwide
+   Characteristics: Tall stems, large yellow flowers, edible seeds
+   Uses: Oil production, food source, ornamental plant
+
+3. Name: Bamboo
+   Family: Poaceae
+   Habitat: Tropical and subtropical regions
+   Area Found: Asia, Africa, Americas
+   Characteristics: Woody stems, fast-growing, used in construction
+   Uses: Construction material, furniture, paper production, food (bamboo shoots)
+
+4. Name: Aloe Vera
+   Family: Asphodelaceae
+   Habitat: Dry regions, deserts
+   Area Found: Native to Arabian Peninsula, found in arid regions worldwide
+   Characteristics: Succulent leaves, medicinal properties
+   Uses: Skincare, medicinal uses, cosmetics, food supplements
+
+5. Name: Lavender
+   Family: Lamiaceae
+   Habitat: Mediterranean regions, gardens
+   Area Found: Native to Mediterranean, cultivated worldwide
+   Characteristics: Fragrant purple flowers, used in aromatherapy
+   Uses: Essential oil production, aromatherapy, culinary herb, ornamental
+
+6. Name: Cactus
+   Family: Cactaceae
+   Habitat: Deserts, arid regions
+   Area Found: Americas, especially in North and South America
+   Characteristics: Succulent stems, spines instead of leaves
+   Uses: Ornamental plant, water storage, some species used as food (e.g., prickly pear)
+
+7. Name: Oak
+   Family: Fagaceae
+   Habitat: Temperate regions, forests
+   Area Found: Northern Hemisphere, especially in North America, Europe, Asia
+   Characteristics: Large trees, lobed leaves, acorns
+   Uses: Timber, furniture, flooring, wine barrel production, wildlife habitat
+
+8. Name: Maple
+   Family: Sapindaceae
+   Habitat: Temperate regions, forests
+   Area Found: Native to Asia, Europe, North America
+   Characteristics: Lobed leaves, used for maple syrup production
+   Uses: Maple syrup, timber, ornamental plant, bonsai
+
+9. Name: Pine
+   Family: Pinaceae
+   Habitat: Coniferous forests
+   Area Found: Northern Hemisphere, especially in North America, Europe, Asia
+   Characteristics: Needle-like leaves, cones, evergreen
+   Uses: Timber, paper production, resin, ornamental plant
+
+10. Name: Fern
+    Family: Polypodiaceae
+    Habitat: Moist, shaded areas
+    Area Found: Worldwide, especially in tropical and temperate regions
+    Characteristics: Fronds, no flowers, reproduces via spores
+    Uses: Ornamental plant, air purification, traditional medicine
+
+11. Name: Orchid
+    Family: Orchidaceae
+    Habitat: Tropical regions, greenhouses
+    Area Found: Worldwide, especially in tropical regions
+    Characteristics: Complex flowers, epiphytic growth
+    Uses: Ornamental plant, vanilla production (from Vanilla orchid)
+
+12. Name: Tulip
+    Family: Liliaceae
+    Habitat: Gardens, temperate regions
+    Area Found: Native to Central Asia, widely cultivated in Europe and North America
+    Characteristics: Bulbous plants, colorful flowers
+    Uses: Ornamental plant, cut flower industry
+
+13. Name: Baobab
+    Family: Malvaceae
+    Habitat: African savannas
+    Area Found: Africa, Madagascar, Australia
+    Characteristics: Thick trunk, deciduous, long-lived
+    Uses: Food (fruit pulp), water storage, traditional medicine, fiber for ropes
+
+14. Name: Dandelion
+    Family: Asteraceae
+    Habitat: Fields, meadows
+    Area Found: Native to Eurasia, found worldwide
+    Characteristics: Yellow flowers, fluffy seed heads
+    Uses: Edible leaves and roots, traditional medicine, ornamental plant
+
+15. Name: Mango
+    Family: Anacardiaceae
+    Habitat: Tropical regions
+    Area Found: Native to South Asia, cultivated in tropical regions worldwide
+    Characteristics: Large tree, sweet edible fruits
+    Uses: Food (fruits), juice, culinary uses, traditional medicine
+
+16. Name: Coconut
+    Family: Arecaceae
+    Habitat: Coastal areas, tropical regions
+    Area Found: Tropics, especially in Southeast Asia, Pacific Islands, India
+    Characteristics: Tall palm, edible nuts, fibrous husk
+    Uses: Food (fruit, water), oil production, fiber, construction material
+
+17. Name: Jasmine
+    Family: Oleaceae
+    Habitat: Gardens, temperate regions
+    Area Found: Native to Eurasia, Africa, Australasia
+    Characteristics: Fragrant white or yellow flowers, climbing shrubs
+    Uses: Perfume production, tea flavoring, ornamental plant, traditional medicine
+
+18. Name: Neem
+    Family: Meliaceae
+    Habitat: Tropical and semi-tropical regions
+    Area Found: Native to the Indian subcontinent, cultivated in Africa, Asia
+    Characteristics: Evergreen tree, bitter leaves, medicinal properties
+    Uses: Traditional medicine, pesticide, skincare, dental care (neem sticks)
+
+19. Name: Eucalyptus
+    Family: Myrtaceae
+    Habitat: Woodlands, forests
+    Area Found: Native to Australia, cultivated worldwide
+    Characteristics: Tall trees, aromatic leaves, fast-growing
+    Uses: Essential oil production, paper production, timber, medicinal uses
+
+20. Name: Peepal (Sacred Fig)
+    Family: Moraceae
+    Habitat: Tropical regions
+    Area Found: Native to Indian subcontinent, Southeast Asia
+    Characteristics: Large tree, heart-shaped leaves, long lifespan
+    Uses: Religious significance, traditional medicine, air purification
+
+21. Name: Hibiscus
+    Family: Malvaceae
+    Habitat: Tropical and subtropical regions
+    Area Found: Native to Asia and Pacific Islands, cultivated worldwide
+    Characteristics: Large colorful flowers, shrub or small tree
+    Uses: Ornamental plant, herbal tea (hibiscus tea), traditional medicine
+
+22. Name: Banana
+    Family: Musaceae
+    Habitat: Tropical regions
+    Area Found: Native to Southeast Asia, cultivated in tropical regions worldwide
+    Characteristics: Herbaceous plant, edible fruit, large leaves
+    Uses: Food (fruits), leaves used as plates, traditional medicine
+
+23. Name: Lotus
+    Family: Nelumbonaceae
+    Habitat: Freshwater lakes, ponds, rivers
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Aquatic plant, large flowers, floating leaves
+    Uses: Religious significance, ornamental plant, edible seeds and roots
+
+24. Name: Basil
+    Family: Lamiaceae
+    Habitat: Warm, temperate regions
+    Area Found: Native to tropical Asia, Africa, cultivated worldwide
+    Characteristics: Herbaceous plant, fragrant leaves
+    Uses: Culinary herb, medicinal uses, essential oil production
+
+25. Name: Ginkgo
+    Family: Ginkgoaceae
+    Habitat: Urban areas, parks, gardens
+    Area Found: Native to China, cultivated worldwide
+    Characteristics: Deciduous tree, fan-shaped leaves, long-lived
+    Uses: Traditional medicine, ornamental plant, dietary supplements
+
+26. Name: Cherry Blossom
+    Family: Rosaceae
+    Habitat: Gardens, parks, temperate regions
+    Area Found: Native to Japan, cultivated worldwide
+    Characteristics: Delicate pink flowers, short-lived blooms
+    Uses: Ornamental plant, cultural significance, tourism
+
+27. Name: Raspberry
+    Family: Rosaceae
+    Habitat: Woodlands, gardens
+    Area Found: Native to Europe and Asia, cultivated globally
+    Characteristics: Thorny canes, edible red or black fruits
+    Uses: Food source, jam production, ornamental plant
+
+28. Name: Thyme
+    Family: Lamiaceae
+    Habitat: Mediterranean regions, gardens
+    Area Found: Native to Europe, cultivated worldwide
+    Characteristics: Low-growing herb, fragrant leaves
+    Uses: Culinary herb, medicinal uses, ornamental plant
+
+29. Name: Marigold
+    Family: Asteraceae
+    Habitat: Gardens, sunny areas
+    Area Found: Native to Americas, cultivated worldwide
+    Characteristics: Bright yellow or orange flowers
+    Uses: Ornamental plant, pest repellent, traditional medicine
+
+30. Name: Ficus
+    Family: Moraceae
+    Habitat: Tropical and subtropical regions
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Varied leaf shapes, can grow as trees or shrubs
+    Uses: Ornamental plant, air purification, traditional medicine
+
+31. Name: Papaya
+    Family: Caricaceae
+    Habitat: Tropical regions
+    Area Found: Native to Central America, cultivated worldwide
+    Characteristics: Tall herbaceous plant, large fruits
+    Uses: Food (fruits), medicinal uses, culinary uses
+
+32. Name: Pomegranate
+    Family: Punicaceae
+    Habitat: Mediterranean climates
+    Area Found: Native to Persia, cultivated worldwide
+    Characteristics: Red, round fruit, thorny shrub
+    Uses: Food (fruits), juice production, traditional medicine
+
+33. Name: Persimmon
+    Family: Ebenaceae
+    Habitat: Temperate regions
+    Area Found: Native to Asia, cultivated in the Americas
+    Characteristics: Deciduous tree, sweet orange fruit
+    Uses: Food source, ornamental tree, traditional medicine
+
+34. Name: Sweet Potato
+    Family: Convolvulaceae
+    Habitat: Warm, temperate regions
+    Area Found: Native to Central and South America, cultivated worldwide
+    Characteristics: Herbaceous vine, edible tubers
+    Uses: Food source, ornamental plant, traditional medicine
+
+35. Name: Ginger
+    Family: Zingiberaceae
+    Habitat: Tropical regions
+    Area Found: Native to Southeast Asia, cultivated worldwide
+    Characteristics: Herbaceous plant, aromatic rhizome
+    Uses: Culinary uses, medicinal properties, essential oil production
+
+36. Name: Cilantro
+    Family: Apiaceae
+    Habitat: Temperate regions, gardens
+    Area Found: Native to Europe and Asia, cultivated worldwide
+    Characteristics: Herbaceous plant, aromatic leaves
+    Uses: Culinary herb, medicinal uses, essential oil production
+
+37. Name: Chia
+    Family: Lamiaceae
+    Habitat: Warm, temperate regions
+    Area Found: Native to Mexico and Guatemala, cultivated worldwide
+    Characteristics: Herbaceous plant, small edible seeds
+    Uses: Food source, health supplements, ornamental plant
+
+38. Name: Cardamom
+    Family: Zingiberaceae
+    Habitat: Tropical forests
+    Area Found: Native to India, cultivated in tropical regions
+    Characteristics: Herbaceous plant, aromatic seeds
+    Uses: Culinary uses, medicinal properties, essential oil production
+
+39. Name: Willow
+    Family: Salicaceae
+    Habitat: Wetlands, riverbanks
+    Area Found: Northern Hemisphere, especially in temperate regions
+    Characteristics: Deciduous tree or shrub, long drooping branches
+    Uses: Ornamental plant, basketry, traditional medicine
+
+40. Name: Quinoa
+    Family: Amaranthaceae
+    Habitat: High altitudes, arid regions
+    Area Found: Native to the Andes, cultivated worldwide
+    Characteristics: Herbaceous plant, edible seeds
+    Uses: Food source, health supplements, ornamental plant
+
+41. Name: Thyme
+    Family: Lamiaceae
+    Habitat: Mediterranean regions, gardens
+    Area Found: Native to Europe, cultivated worldwide
+    Characteristics: Low-growing herb, fragrant leaves
+    Uses: Culinary herb, medicinal uses, ornamental plant
+
+42. Name: Cabbage
+    Family: Brassicaceae
+    Habitat: Temperate regions
+    Area Found: Native to Europe, cultivated worldwide
+    Characteristics: Leafy green plant, dense head
+    Uses: Food source, culinary uses, traditional medicine
+
+43. Name: Spinach
+    Family: Amaranthaceae
+    Habitat: Cool-season areas
+    Area Found: Native to Persia, cultivated worldwide
+    Characteristics: Leafy green plant, rich in iron
+    Uses: Food source, culinary uses, health supplements
+
+44. Name: Cauliflower
+    Family: Brassicaceae
+    Habitat: Temperate regions
+    Area Found: Native to Mediterranean, cultivated worldwide
+    Characteristics: Edible flower head, white color
+    Uses: Food source, culinary uses, traditional medicine
+
+45. Name: Broccoli
+    Family: Brassicaceae
+    Habitat: Cool-season areas
+    Area Found: Native to Italy, cultivated worldwide
+    Characteristics: Edible flower heads, green color
+    Uses: Food source, culinary uses, health supplements
+
+46. Name: Radish
+    Family: Brassicaceae
+    Habitat: Cool-season areas
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Edible root, various colors
+    Uses: Food source, culinary uses, traditional medicine
+
+47. Name: Eggplant
+    Family: Solanaceae
+    Habitat: Warm regions
+    Area Found: Native to India, cultivated worldwide
+    Characteristics: Edible fruit, purple skin
+    Uses: Food source, culinary uses, traditional medicine
+
+48. Name: Bell Pepper
+    Family: Solanaceae
+    Habitat: Warm regions
+    Area Found: Native to Central America, cultivated worldwide
+    Characteristics: Edible fruit, various colors
+    Uses: Food source, culinary uses, ornamental plant
+
+49. Name: Chili Pepper
+    Family: Solanaceae
+    Habitat: Warm regions
+    Area Found: Native to Americas, cultivated worldwide
+    Characteristics: Spicy edible fruit, various colors
+    Uses: Food source, culinary uses, traditional medicine
+
+50. Name: Zucchini
+    Family: Cucurbitaceae
+    Habitat: Warm regions
+    Area Found: Native to the Americas, cultivated worldwide
+    Characteristics: Edible fruit, green color
+    Uses: Food source, culinary uses, traditional medicine
+
+51. Name: Leek
+    Family: Amaryllidaceae
+    Habitat: Temperate regions
+    Area Found: Native to Europe and Asia, cultivated worldwide
+    Characteristics: Edible stalk, onion-like flavor
+    Uses: Food source, culinary uses, traditional medicine
+
+52. Name: Onion
+    Family: Amaryllidaceae
+    Habitat: Temperate regions
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Edible bulb, strong flavor
+    Uses: Food source, culinary uses, medicinal properties
+
+53. Name: Garlic
+    Family: Amaryllidaceae
+    Habitat: Temperate regions
+    Area Found: Native to Central Asia, cultivated worldwide
+    Characteristics: Edible bulb, strong flavor
+    Uses: Food source, culinary uses, traditional medicine
+
+54. Name: Beetroot
+    Family: Amaranthaceae
+    Habitat: Temperate regions
+    Area Found: Native to Mediterranean, cultivated worldwide
+    Characteristics: Edible root, deep red color
+    Uses: Food source, culinary uses, health supplements
+
+55. Name: Carrot
+    Family: Apiaceae
+    Habitat: Cool-season areas
+    Area Found: Native to Europe and Asia, cultivated worldwide
+    Characteristics: Edible root, orange color
+    Uses: Food source, culinary uses, health supplements
+
+56. Name: Sweet Corn
+    Family: Poaceae
+    Habitat: Warm regions
+    Area Found: Native to Americas, cultivated worldwide
+    Characteristics: Edible kernels, tall plant
+    Uses: Food source, culinary uses, animal feed
+
+57. Name: Potatoes
+    Family: Solanaceae
+    Habitat: Cool to temperate regions
+    Area Found: Native to the Andes, cultivated worldwide
+    Characteristics: Edible tuber, various colors
+    Uses: Food source, culinary uses, traditional medicine
+
+58. Name: Wheat
+    Family: Poaceae
+    Habitat: Temperate regions
+    Area Found: Native to the Middle East, cultivated worldwide
+    Characteristics: Grass species, edible grains
+    Uses: Food source, flour production, animal feed
+
+59. Name: Rice
+    Family: Poaceae
+    Habitat: Wet, tropical areas
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Grassy plant, edible grains
+    Uses: Food source, staple crop, traditional medicine
+
+60. Name: Barley
+    Family: Poaceae
+    Habitat: Temperate regions
+    Area Found: Native to the Middle East, cultivated worldwide
+    Characteristics: Grassy plant, edible grains
+    Uses: Food source, animal feed, brewing
+
+61. Name: Oats
+    Family: Poaceae
+    Habitat: Cool, temperate regions
+    Area Found: Native to Europe, cultivated worldwide
+    Characteristics: Grassy plant, edible grains
+    Uses: Food source, animal feed, health supplements
+
+62. Name: Millet
+    Family: Poaceae
+    Habitat: Arid and semi-arid regions
+    Area Found: Native to Africa and Asia, cultivated worldwide
+    Characteristics: Grassy plant, small edible grains
+    Uses: Food source, animal feed, traditional medicine
+
+63. Name: Sorghum
+    Family: Poaceae
+    Habitat: Warm regions
+    Area Found: Native to Africa, cultivated worldwide
+    Characteristics: Grassy plant, edible grains
+    Uses: Food source, animal feed, traditional medicine
+
+64. Name: Quinoa
+    Family: Amaranthaceae
+    Habitat: High altitudes, arid regions
+    Area Found: Native to the Andes, cultivated worldwide
+    Characteristics: Herbaceous plant, edible seeds
+    Uses: Food source, health supplements, ornamental plant
+
+65. Name: Rye
+    Family: Poaceae
+    Habitat: Cool, temperate regions
+    Area Found: Native to Europe, cultivated worldwide
+    Characteristics: Grassy plant, edible grains
+    Uses: Food source, animal feed, traditional medicine
+
+66. Name: Sesame
+    Family: Pedaliaceae
+    Habitat: Tropical regions
+    Area Found: Native to Africa and India, cultivated worldwide
+    Characteristics: Herbaceous plant, edible seeds
+    Uses: Food source, oil production, traditional medicine
+
+67. Name: Flax
+    Family: Linaceae
+    Habitat: Cool, temperate regions
+    Area Found: Native to Eurasia, cultivated worldwide
+    Characteristics: Herbaceous plant, edible seeds
+    Uses: Food source, oil production, traditional medicine
+
+68. Name: Chia
+    Family: Lamiaceae
+    Habitat: Warm, temperate regions
+    Area Found: Native to Mexico and Guatemala, cultivated worldwide
+    Characteristics: Herbaceous plant, small edible seeds
+    Uses: Food source, health supplements, ornamental plant
+
+69. Name: Sunflower
+    Family: Asteraceae
+    Habitat: Fields, gardens, sunny areas
+    Area Found: Native to North America, cultivated worldwide
+    Characteristics: Tall stems, large yellow flowers, edible seeds
+    Uses: Oil production, food source, ornamental plant
+
+70. Name: Peanut
+    Family: Fabaceae
+    Habitat: Warm regions
+    Area Found: Native to South America, cultivated worldwide
+    Characteristics: Herbaceous plant, edible seeds
+    Uses: Food source, oil production, animal feed
+
+71. Name: Cashew
+    Family: Anacardiaceae
+    Habitat: Tropical regions
+    Area Found: Native to Brazil, cultivated in tropical areas
+    Characteristics: Tree, edible seeds and fruit
+    Uses: Food source, oil production, traditional medicine
+
+72. Name: Almond
+    Family: Rosaceae
+    Habitat: Mediterranean regions
+    Area Found: Native to the Middle East, cultivated worldwide
+    Characteristics: Deciduous tree, edible nuts
+    Uses: Food source, oil production, traditional medicine
+
+73. Name: Walnut
+    Family: Juglandaceae
+    Habitat: Temperate regions
+    Area Found: Native to Central Asia, cultivated worldwide
+    Characteristics: Deciduous tree, edible nuts
+    Uses: Food source, oil production, traditional medicine
+
+74. Name: Hazelnut
+    Family: Betulaceae
+    Habitat: Temperate regions
+    Area Found: Native to Europe and Asia, cultivated worldwide
+    Characteristics: Deciduous shrub, edible nuts
+    Uses: Food source, oil production, traditional medicine
+
+75. Name: Pistachio
+    Family: Anacardiaceae
+    Habitat: Mediterranean regions
+    Area Found: Native to Central Asia, cultivated in warm regions
+    Characteristics: Deciduous tree, edible nuts
+    Uses: Food source, oil production, traditional medicine
+
+76. Name: Chestnut
+    Family: Fagaceae
+    Habitat: Temperate regions
+    Area Found: Native to Europe, Asia, North America
+    Characteristics: Deciduous tree, edible nuts
+    Uses: Food source, traditional medicine, ornamental tree
+
+77. Name: Grapevine
+    Family: Vitaceae
+    Habitat: Temperate and subtropical regions
+    Area Found: Native to the Mediterranean, cultivated worldwide
+    Characteristics: Climbing vine, edible fruit (grapes)
+    Uses: Food source, wine production, ornamental plant
+
+78. Name: Olive
+    Family: Oleaceae
+    Habitat: Mediterranean regions
+    Area Found: Native to the Mediterranean, cultivated worldwide
+    Characteristics: Evergreen tree, small edible fruits
+    Uses: Food source (olives), oil production, traditional medicine
+
+79. Name: Blackberry
+    Family: Rosaceae
+    Habitat: Woodlands, gardens
+    Area Found: Native to Europe, Asia, North America
+    Characteristics: Thorny canes, edible black fruits
+    Uses: Food source, jam production, ornamental plant
+
+80. Name: Blueberry
+    Family: Ericaceae
+    Habitat: Acidic soils, woodlands
+    Area Found: Native to North America, cultivated worldwide
+    Characteristics: Shrub, edible blue fruits
+    Uses: Food source, jam production, health supplements
+
+81. Name: Strawberry
+    Family: Rosaceae
+    Habitat: Gardens, fields
+    Area Found: Native to the Americas, cultivated worldwide
+    Characteristics: Low-growing plant, edible red fruits
+    Uses: Food source, jam production, ornamental plant
+
+82. Name: Cranberry
+    Family: Ericaceae
+    Habitat: Wetlands, bogs
+    Area Found: Native to North America, cultivated worldwide
+    Characteristics: Low-growing vine, edible red fruits
+    Uses: Food source, juice production, health supplements
+
+83. Name: Fig
+    Family: Moraceae
+    Habitat: Mediterranean regions, gardens
+    Area Found: Native to the Middle East, cultivated worldwide
+    Characteristics: Deciduous tree, edible fruits
+    Uses: Food source, traditional medicine, ornamental plant
+
+84. Name: Mulberry
+    Family: Moraceae
+    Habitat: Temperate and tropical regions
+    Area Found: Native to Asia, cultivated worldwide
+    Characteristics: Deciduous tree or shrub, edible fruits
+    Uses: Food source, traditional medicine, silkworm feed
+
+85. Name: Avocado
+    Family: Lauraceae
+    Habitat: Tropical and subtropical regions
+    Area Found: Native to Central America, cultivated worldwide
+    Characteristics: Tree, edible fruits
+    Uses: Food source, oil production, traditional medicine
+
+86. Name: Durian
+    Family: Malvaceae
+    Habitat: Tropical regions
+    Area Found: Native to Southeast Asia, cultivated in tropical areas
+    Characteristics: Large, spiky fruit, strong odor
+    Uses: Food source, traditional medicine, culinary uses
+
+87. Name: Jackfruit
+    Family: Moraceae
+    Habitat: Tropical regions
+    Area Found: Native to South Asia, cultivated in tropical areas
+    Characteristics: Large fruit, edible flesh
+    Uses: Food source, traditional medicine, culinary uses
+
+88. Name: Starfruit
+    Family: Oxalidaceae
+    Habitat: Tropical regions
+    Area Found: Native to Southeast Asia, cultivated in tropical areas
+    Characteristics: Star-shaped fruit, edible
+    Uses: Food source, ornamental plant, traditional medicine
+
+89. Name: Passion Fruit
+    Family: Passifloraceae
+    Habitat: Tropical regions
+    Area Found: Native to South America, cultivated worldwide
+    Characteristics: Round fruit, aromatic pulp
+    Uses: Food source, juice production, ornamental plant
+
+90. Name: Lychee
+    Family: Sapindaceae
+    Habitat: Tropical regions
+    Area Found: Native to southern China, cultivated in tropical areas
+    Characteristics: Small, round fruit, sweet and fragrant
+    Uses: Food source, traditional medicine, ornamental plant
+
+91. Name: Rambutan
+    Family: Sapindaceae
+    Habitat: Tropical regions
+    Area Found: Native to Southeast Asia, cultivated in tropical areas
+    Characteristics: Spiky red fruit, sweet flesh
+    Uses: Food source, traditional medicine, ornamental plant
+
+92. Name: Dragon Fruit
+    Family: Cactaceae
+    Habitat: Tropical regions
+    Area Found: Native to Central America, cultivated in tropical areas
+    Characteristics: Cactus fruit, vibrant skin, sweet flesh
+    Uses: Food source, traditional medicine, ornamental plant
+
+93. Name: Tamarind
+    Family: Fabaceae
+    Habitat: Tropical regions
+    Area Found: Native to Africa, cultivated in tropical areas
+    Characteristics: Pod-like fruit, sweet and tangy
+    Uses: Food source, traditional medicine, culinary uses
+
+94. Name: Guava
+    Family: Myrtaceae
+    Habitat: Tropical regions
+    Area Found: Native to Central America, cultivated worldwide
+    Characteristics: Small tree, edible fruit
+    Uses: Food source, juice production, traditional medicine
+
+95. Name: Soursop
+    Family: Annonaceae
+    Habitat: Tropical regions
+    Area Found: Native to the Americas, cultivated in tropical areas
+    Characteristics: Green, spiky fruit, sweet flesh
+    Uses: Food source, traditional medicine, juice production
+
+96. Name: Acai
+    Family: Arecaceae
+    Habitat: Tropical rainforests
+    Area Found: Native to South America, cultivated worldwide
+    Characteristics: Small, dark purple berries
+    Uses: Food source, health supplements, smoothie bowls
+
+97. Name: Blue Lotus
+    Family: Nymphaeaceae
+    Habitat: Freshwater lakes, ponds
+    Area Found: Native to Asia and Africa, cultivated worldwide
+    Characteristics: Blue flowers, aquatic plant
+    Uses: Ornamental plant, traditional medicine, religious significance
+
+98. Name: Water Lily
+    Family: Nymphaeaceae
+    Habitat: Freshwater lakes, ponds
+    Area Found: Native to many regions worldwide
+    Characteristics: Floating leaves, large flowers
+    Uses: Ornamental plant, traditional medicine, water purification
+
+99. Name: Elephant Ear
+    Family: Araceae
+    Habitat: Tropical regions, gardens
+    Area Found: Native to tropical Asia and Africa, cultivated worldwide
+    Characteristics: Large leaves, herbaceous plant
+    Uses: Ornamental plant, traditional medicine, landscaping
+
+100. Name: Snake Plant
+    Family: Asparagaceae
+    Habitat: Tropical regions, indoor spaces
+    Area Found: Native to West Africa, cultivated worldwide
+    Characteristics: Long, upright leaves, low-maintenance
+    Uses: Indoor ornamental plant, air purification, traditional medicine
