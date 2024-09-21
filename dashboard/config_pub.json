@@ -1,0 +1,21 @@
+{
+  "address": "0x8801c5f0418a9323abe553a5fa0234ed51111031",
+  "chat": "https://huggingface.co/gaianet/Qwen1.5-1.8B-Chat-GGUF/resolve/main/Qwen1.5-1.8B-Chat-Q5_K_M.gguf",
+  "chat_batch_size": "4096",
+  "chat_ctx_size": "4096",
+  "description": "This GaiaNet node config with a Qwen 1.5 1.8B model.",
+  "domain": "us.gaianet.network",
+  "embedding": "https://huggingface.co/gaianet/nomic-embed-text-gguf/resolve/main/nomic-embed-text-v1.5.f16.gguf",
+  "embedding_batch_size": "512",
+  "embedding_collection_name": "default",
+  "embedding_ctx_size": "8192",
+  "llamaedge_port": "8080",
+  "prompt_template": "chatml",
+  "qdrant_limit": "3",
+  "qdrant_score_threshold": "0.5",
+  "rag_policy": "system-message",
+  "rag_prompt": "The following text is the context for the user question.\n----------------\n",
+  "reverse_prompt": "",
+  "snapshot": "https://huggingface.co/datasets/max-id/gaianet-qdrant-snapshot/resolve/main/plants-data-c8b27b78-cd68-4d41-83a1-cfb9422c5adf/plants-data-c8b27b78-cd68-4d41-83a1-cfb9422c5adf.snapshot",
+  "system_prompt": "You are a expert researcher on plant species"
+}
